@@ -4,4 +4,4 @@ SEN 201 Task Hello World
 Language:
 python
 
-  ptint("Hello, World")
+  print("Hello, World")
