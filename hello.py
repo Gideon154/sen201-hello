@@ -1,7 +1,10 @@
 # SEN 201-ASSIGNMENT
-Hello World Program
+## Hello World Program
 
-Language:Python
+**Course:** SEN 201
 
-  '''python
+**Language:** Python
+
+  ### Code:
+'''python
   print("Hello, World")
